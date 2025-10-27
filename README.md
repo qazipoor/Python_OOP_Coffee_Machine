@@ -31,18 +31,18 @@ Great for learning classes, objects, and modular code architecture! ✅
 
 ## 📦 Installation & Usage
 
+### Clone the project
 ```bash
-# Clone the project
 git clone https://github.com/qazipoor/Python_OOP_Coffee_Machine.git
 ````
 
+### Move into folder
 ```bash
-# Move into folder
 cd Python_OOP_Coffe_Machine
 ```
 
+### Run the program
 ```bash
-# Run the program
 python main.py
 ```
 
