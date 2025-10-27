@@ -34,10 +34,14 @@ Great for learning classes, objects, and modular code architecture! ✅
 ```bash
 # Clone the project
 git clone https://github.com/qazipoor/Python_OOP_Coffee_Machine.git
+````
 
+```bash
 # Move into folder
 cd Python_OOP_Coffe_Machine
+```
 
+```bash
 # Run the program
 python main.py
 ```
